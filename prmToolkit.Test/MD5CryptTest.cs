@@ -1,19 +1,4 @@
-# prmToolkit
-
-# Encryption
-Classe responsável por criptografar e descriptografar dados ou mensagens
-
-### Installation - Encryption
-
-Para instalar, abra o prompt de comando Package Manager Console do seu Visual Studio e digite o comando abaixo:
-
-```sh
-Install-Package prmToolkit.Encryption
-```
-### Exemplo de como usar
-
-```sh
-using System;
+﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using prmToolkit.Encryption;
 
@@ -40,4 +25,3 @@ namespace prmToolkit.Test
         }
     }
 }
-```
